@@ -1,5 +1,6 @@
 # Bluetooth_connection
 This piece of code will create and maintain the connection with the arduino and the android application
+
 /*Developer: Frederik Hauke
 Important Notices:
 This Arduino-Code is written for Visualizating measurement data from a microcontroller via Bluetooth.
